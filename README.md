@@ -1,6 +1,10 @@
 # NodeJS-MongoDB-Sample
 A simple NodeJS web application which communicates with MongoDB. Useful for testing Eclipse Che Node workspace.
 
+# Deploy it to CodeReady Workspaces with Factory
+
+[![Contribute](https://github.com/blues-man/nodejs-mongodb-sample/raw/master/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-kena-c899.kena-c899.example.opentlc.com/factory?url=https://github.com/Red-Wine-Software/nodejs-mongodb-sample.git)
+
 # MongoDB
 The application connects to the Mongo data base, so it should be configured with next parameters:
 - MongoDB user - <b>user</b>
